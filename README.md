@@ -99,7 +99,7 @@ customer-shopping-behavior-analysis/
 ├── powerbi/
 │   └── Customer_Shopping_Insights.pbix
 │
-├── screenshots/
+├── Screenshot/
 │   └── dashboard.png
 │
 └── README.md
@@ -108,7 +108,7 @@ customer-shopping-behavior-analysis/
 ## Dashboard Preview
 
 ### Overview Dashboard
-[Dashboard](C:\Users\ASUS\OneDrive\Documents\Analaytics_project\Dashboard.png)
+[Screenshot](dashboard.png)
 
 ## Future Improvements
 
