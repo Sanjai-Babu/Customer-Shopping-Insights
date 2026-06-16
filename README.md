@@ -108,7 +108,7 @@ customer-shopping-behavior-analysis/
 ## Dashboard Preview
 
 ### Overview Dashboard
-[Screenshot](dashboard.png)
+![Dashboard Preview](Screenshot/dashboard.png)
 
 ## Future Improvements
 
