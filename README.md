@@ -108,7 +108,7 @@ customer-shopping-behavior-analysis/
 ## Dashboard Preview
 
 ### Overview Dashboard
-[Dashboard](screenshot.png)
+[Dashboard](C:\Users\ASUS\OneDrive\Documents\Analaytics_project\Dashboard.png)
 
 ## Future Improvements
 
