@@ -57,7 +57,7 @@ from urllib.parse import quote_plus
 
 # MySQL connection
 username = "root"
-password = "Sanjaisan@550"
+password = "Sanjai"
 host = "localhost"
 port = "3306"
 database = "analytics project"
